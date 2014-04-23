@@ -20,6 +20,7 @@ In this project, you could find a R script `run_analysis.R`, it contains the fun
 
 ### Prograss
 The output file is created by the following processes:
+
 1.  Read x, y and subject both in train and test folder.
 2.  Merge train and test data.
 3.  Label the column of x according to `features.txt`.
